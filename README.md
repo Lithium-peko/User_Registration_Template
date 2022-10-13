@@ -19,4 +19,6 @@ SELECT * FROM user;
 
 使用mysql运行user.sql文件创建数据库
 
->mysql -u用户名 -p密码 < user.sql
+```shell
+mysql -u用户名 -p密码 < user.sql
+```
